@@ -1,0 +1,38 @@
+
+[
+    {
+      "id": 1,
+      "title": "React Basics",
+      "Decription": "Learn the fundamentals of React.",
+      "instructor": "Mr. John Walter",
+      "Enrollment status":"Closed",
+      "Course duration":"5 weeks",
+      "Schedule":"Mondays and Tuedays, 1:00 PM - 3:00 PM",
+      "Location":"Online",
+      "Pre-requisites":"None"
+    },
+    {
+        "id": 1,
+        "title": "React Intermediate",
+        "Decription": "Learn the intermediate concepts of React.",
+        "instructor": "Ms. Alice Walter",
+        "Enrollment status":"Open",
+        "Course duration":"4 weeks",
+        "Schedule":"Wednesdays and Thursdays, 4:00 PM - 6:00 PM",
+        "Location":"Online",
+        "Pre-requisites":"React Basics"
+      },
+      {
+        "id": 1,
+        "title": "React Advanced",
+        "Decription": "Learn the advanced concepts of React.",
+        "instructor": "Mr. Michael Watson",
+        "EnrollmentStatus":"Upcoming",
+        "CourseDuration":"3 weeks",
+        "Schedule":"Fridays and Saturdays, 6:00 PM - 8:00 PM",
+        "Location":"Online",
+        "PreRequisites":"React Basics, React Intermediate"
+      }
+    
+  ]
+  
